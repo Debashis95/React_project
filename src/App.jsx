@@ -10,7 +10,7 @@ function App() {
       element: <Root />,
       children: [
         {
-          path: '/product/list',
+          path: '/',
           element: <ProductList />,
         },
         {
